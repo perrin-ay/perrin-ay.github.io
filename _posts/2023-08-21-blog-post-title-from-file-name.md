@@ -17,6 +17,9 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ---
 
+
+<img src="https://raw.githubusercontent.com/nwithan8/blog/master/assets/2019-07-09-what-does-the-ambient-music-reveal-about-me-1.png" alt="It’s not entirely clear if it’s no longer listening, or just not telling you it’s listening.">
+
 ### This is a header
 
 #### Some T-SQL Code
