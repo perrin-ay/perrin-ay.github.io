@@ -17,7 +17,7 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ---
 
-
+![image info](perrin_ay.PNG)
 <img src="https://github.com/perrin-ay/perrin-ay.github.io/blob/main/images/perrin_ay.PNG" alt="avatar">
 
 ### This is a header
