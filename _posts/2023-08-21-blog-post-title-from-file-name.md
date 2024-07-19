@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Working with secure FTP in PowerShell"
+description: "Recently learned a new way to work with secure FTP in PowerShell"
+date: 2021-11-01T07:00:00-07:00
+category: [Hume, Active-Inference]
+tags: [PowerShell, linux]
+---
+
 ## Blog Post Title From First Header
 
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
