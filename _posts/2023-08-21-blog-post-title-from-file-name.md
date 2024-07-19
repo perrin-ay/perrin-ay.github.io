@@ -19,6 +19,10 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 <img src="/images/perrin_ay.PNG">
 
+![perrin image](/images/perrin_ay.PNG){: style="width:200px; float:right;"}
+
+[Link to google](https://google.com/){:target="_blank"}
+
 ### This is a header
 
 #### Some T-SQL Code
