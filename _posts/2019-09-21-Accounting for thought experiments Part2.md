@@ -38,6 +38,8 @@ Brown’s jump to the mysterious platonic realm to explain the falling stones co
 
 The mysterious nature of the platonic account also gives it a dubious and unintelligible flavor. The act of Platonic perception itself is not explained by Brown, and there is no model issued on how during the course of thought experiments, one reaches into the platonic realm. There is no account of how these platonic insights are perceived. Admitting to the platonic view would mean making an additional ontological commitment to the existence of the platonic realm where real laws of nature reside. Furthermore, the link from thought experiments to platonic access is itself puzzling, if the existence and access to such a platonic realm is assumed, why would there be any need to even run thought experiments ( Brown mentions thought experiments serve as vehicles to access the platonic realm, but besides this remark , the workings of gaining platonic intuitions remains vague and unclear).
 
+[Contd in part 3](https://perrin-ay.github.io/thought-experiments/2019/10/01/Accounting-for-thought-experiments-Part-3.html){:target="_blank"}
+
 ---
 
 ### Bibliography
