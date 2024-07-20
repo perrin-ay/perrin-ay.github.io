@@ -4,7 +4,7 @@ title: "What was Hume really on about?"
 description: "Hume's genetic concern"
 date: 2019-9-01T07:00:00-07:00
 category: [Hume]
-tags: [Hume, epistemology]
+tags: [Hume, Epistemology]
 ---
 ![Hume image](/images/Hume.jfif){: style="width:200px; float:center;"}
 # What was Hume really on about?
