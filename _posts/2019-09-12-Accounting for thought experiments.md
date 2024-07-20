@@ -37,8 +37,11 @@ Where scientific thought experiments work on scientific laws in counterfactual i
 
 ### Bibliography
 
-Gendler, T. 2004: “ Thought Experiments Rethought” Philosophy of Science, Vol 71, No. 5, 1152-1163
+Gendler, T. 2004: “ Thought Experiments Rethought” Philosophy of Science, Vol 71, No. 5, 1152-1163.
+
 Sorensen, Roy A. 1992a: “Thought Experiments”, Oxford: Oxford University Press.
+
 Wilkes, K.: 1988, RealPeople, Clarendon Press, Oxford.  
+
 
 
