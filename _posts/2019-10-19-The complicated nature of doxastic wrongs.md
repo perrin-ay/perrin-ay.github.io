@@ -28,6 +28,7 @@ Naturally relationships with family and friends are different from those of coll
 
 Suppose Rand comes to learn of Toman’s belief. One can imagine Rand reacting with hurt and disappointment, after all he had made a promise, and even going to programs to help him not succumbing to recidivism. Toman could say he was rationally justified in his belief, Rand does have a history, and there was evidence of items with RFIDs. But does this quell the sense of disappointment Rand might feel? Does he not feel wronged because his cousin's beliefs were grounded in rational justification ? Friends and family naturally expect more from us and our beliefs. The normative standards are higher- we ought to think well of them,  we ought to have more faith in them and we ought to give them the benefit of the doubt. Family and friends are said to be crucial to a good life and contribute in flourishing and well being, and for all these reasons we are and expected to be partial to them. And one could say Toman ought to have withheld judgement , ought to have sought more evidence, and given Rand the benefit of doubt as this is what is expected of family and friends. When these expectations of belief were not met, Rand was entitled to feel hurt. 
 
+[Contd in part 2](https://perrin-ay.github.io/ethics/mind/epistemology/2019/10/29/The-complicated-nature-of-doxastic-wrongs-Part-2.html){:target="_blank"}
 
 ---
 
