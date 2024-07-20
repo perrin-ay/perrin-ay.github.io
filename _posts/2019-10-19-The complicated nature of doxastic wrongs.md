@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "The complicated nature of doxastic wrongs-Part 1"
+title: "The complicated nature of doxastic wrongs - Part 1"
 description: "Can we wrong others simply by virtue of believing something about them?. Here I try to argue that we do."
 date: 2019-10-19T07:00:00-07:00
 category: [Ethics, Mind, Epistemology]
