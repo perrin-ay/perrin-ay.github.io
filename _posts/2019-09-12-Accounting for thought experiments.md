@@ -33,6 +33,8 @@ Still, it is uncontroversial to say philosophical thought experiments and scient
 
 Where scientific thought experiments work on scientific laws in counterfactual imaginative scenarios, philosophical thought experiments do the same thing but on philosophical concepts.
 
+[Contd in part 2](https://perrin-ay.github.io/thought-experiments/2019/09/21/Accounting-for-thought-experiments-Part2.html){:target="_blank"}
+
 ---
 
 ### Bibliography
