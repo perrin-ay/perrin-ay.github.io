@@ -6,7 +6,7 @@ date: 2019-9-01T07:00:00-07:00
 category: [Hume]
 tags: [Hume, epistemology]
 ---
-
+![Hume image](/images/Hume.jfif){: style="width:200px; float:center;"}
 ## What was Hume really on about?
 
 References Hume’s philosophical works and ideas might suggest that his main interest was epistemological i.e. knowledge and its justification. However, first and foremost, Hume considered himself a scientist of the mind and his primary concern was more genetic than epistemic i.e. in how it is we get to believe what we do, than whether said belief is justified or valid.
