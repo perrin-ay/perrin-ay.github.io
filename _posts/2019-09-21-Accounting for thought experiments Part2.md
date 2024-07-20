@@ -4,7 +4,7 @@ title: "Accounting for thought experiments - Part 2"
 description: "What exactly are thought experiments. I also talk about prevailing accounts and offer one of my own"
 date: 2019-09-21T07:00:00-07:00
 category: Thought-Experiments
-tags: [thought experiments, epistemology, intuition pumps]
+tags: [Thought Experiments, Epistemology]
 ---
 ![TE image](/images/te.jfif){: style="width:400px; float:center;"}
 
