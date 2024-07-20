@@ -18,5 +18,5 @@ For instance, Hume’s discussion of demonstrative reasoning, if it were to serv
 ---
 
 ### Bibliography
-- An Enquiry concerning human understanding, David Hume
-- A Treatise of human nature, David Hume
+- An enquiry concerning human understanding, David Hume
+- A treatise of human nature, David Hume
