@@ -10,12 +10,11 @@ tags: Mind
 
 ### Introduction
 Clark and Chalmers (Clark & Chalmers, 1998) introduce the notion of cognitive processes extending out of our heads and into the world. 
-In this entry, I will explain the notion of extended cognition as introduced by Clark & Chalmers (henceforth C&C). I will talk about how C&C ground their thesis on the parity principle which is committed to a Martian saving coarse-grained functionalism. 
+In this entry, I will explain the notion of extended cognition as introduced by Clark & Chalmers (henceforth C&C). 
+I will talk about how C&C ground their thesis on the parity principle which is committed to a Martian saving coarse-grained functionalism. 
 And how this functionalist stance is ultimately doomed and licenses cognitive bloat.
 
-In section 3<link> of this paper, I propose an alternative view that utilizes modeling extended cognition as nonlinear dynamical systems. 
-In section 3.1, I discuss interactive-dominant dynamics and circular causality of components that are salient to Nonlinear dynamical systems. 
-In sections 3.2, 3.3 and 3.4 I describe how these can be applied to make a positive case for extended cognition systems that does not succumb to cognitive bloat. 
+[Here](https://perrin-ay.github.io/mind/2021/12/01/Extended-cognition-without-cognitive-bloat.html){:target="_blank"} I propose an alternative view that utilizes modeling extended cognition as nonlinear dynamical systems, where I discuss interactive-dominant dynamics and circular causality of components that are salient to Nonlinear dynamical systems and how these can be applied to make a positive case for extended cognition systems that does not succumb to cognitive bloat. 
 
 ---
 ### Extended cognition and the parity principle
@@ -54,4 +53,4 @@ For instance, according to #3, simply having reliable access to a cellphone whic
 
 The problem with committing to a functionalist account that is Martian intuition saving coarse-grained, is that it leaves the door open to conjure up a Martian with internal cognitive processes that can made functionally similar to intuitively implausible accounts of extended processes. And so, I argue that the cognitive bloat problems that plague EXT clearly reside with this mark of the cognitive that the parity principle is committed to, and EXT succumbs to cognitive bloat under this view.
 
-This completes my discussions on the problem of cognitive bloat in extended cognition that is based on C&C’s parity principle. In the following sections I will argue for an alternative view on the mark of the cognitive that utilizes dynamical systems theory. 
+This completes my discussions on the problem of cognitive bloat in extended cognition that is based on C&C’s parity principle. [Here](https://perrin-ay.github.io/mind/2021/12/01/Extended-cognition-without-cognitive-bloat.html){:target="_blank"} I argue for an alternative view on the mark of the cognitive that utilizes dynamical systems theory. 
