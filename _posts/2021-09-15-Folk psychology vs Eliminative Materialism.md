@@ -8,8 +8,6 @@ tags: Mind
 ---
 ![TE image](/images/fp.jfif){: style="width:400px; float:center;"}
 
-[In part 1](https://perrin-ay.github.io/ethics/mind/epistemology/2019/10/19/The-complicated-nature-of-doxastic-wrongs.html){:target="_blank"}, using intuition pumps of sketches and vignettes , i tried to conceive the idea of how wronging others may happen simply in viture of belief. Here i further dig into how wronging may track on beliefs.
-
 Eliminativist (Churchland 1979, Churchland 1981) and realist ( Fodor 1975) literature takes  propositional attitudes exclusively as the mental states being attributed when one engages in FP. By propositional attitudes we mean an attitude such as belief or desire towards a proposition. But, while the practice of FP describes the underlying mental causes of our behavior in terms of propositional attitudes, the eliminative materialist (Churchland 1981) wants to deny the very existence of these terms. 
 
 In this entry Il try to show how the eliminativists proposal (that the terms of folk psychology are irreducible in the framework of neuroscience),  hinges on their argument conferring a theory status to FP. But if the regulative view of FP (McGeer 2015) is true, FP is not a theory and the eliminativist argument has chosen a false premise. [In this post](https://perrin-ay.github.io/mind/2021/09/01/Intro-to-eliminative-materialism.html){:target="_blank"} I had introduced the eliminative materialists position. Below I further explore why the eliminativist assumes the theory view of FP and in later sections of this post I formulate and explain the regulative view which rejects the theory status of FP, along with some use cases in favor of it. 
