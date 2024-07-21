@@ -40,7 +40,7 @@ Churchland’s EM argument (ibid.) can be formulated as follows:
     
 7. From #5 and #6 , since FP is irreducible to neuroscience, it should be eliminated. 
 
-In this formulation, Churchland’s EM claim that terms of FP do not refer, hinges on #1, the premise that FP is a theory. Starting with this premise, he goes on to conclude that FP is irreducible to neuroscience in #5. Then combined with premise #6, he concludes FP should be eliminated. But conclusion in #5 is only reached if #2 , #3 and #4 are satisfied. But if FP is not a theory, then #2, #3 and #4 are not applicable. So why does Churchland take FP to be a theory ? [Here](https://perrin-ay.github.io/mind/2021/09/15/Folk-psychology-vs-Eliminative-Materialism.html){:target="_blank"}I consider his proposal for conferring the theory status to FP.
+In this formulation, Churchland’s EM claim that terms of FP do not refer, hinges on #1, the premise that FP is a theory. Starting with this premise, he goes on to conclude that FP is irreducible to neuroscience in #5. Then combined with premise #6, he concludes FP should be eliminated. But conclusion in #5 is only reached if #2 , #3 and #4 are satisfied. But if FP is not a theory, then #2, #3 and #4 are not applicable. So why does Churchland take FP to be a theory ? [Here](https://perrin-ay.github.io/mind/2021/09/15/Folk-psychology-vs-Eliminative-Materialism.html){:target="_blank"} I further explore his proposal for conferring the theory status to FP and how it could be defeated.
 
 ---
 
