@@ -54,3 +54,24 @@ For instance, according to #3, simply having reliable access to a cellphone whic
 The problem with committing to a functionalist account that is Martian intuition saving coarse-grained, is that it leaves the door open to conjure up a Martian with internal cognitive processes that can made functionally similar to intuitively implausible accounts of extended processes. And so, I argue that the cognitive bloat problems that plague EXT clearly reside with this mark of the cognitive that the parity principle is committed to, and EXT succumbs to cognitive bloat under this view.
 
 This completes my discussions on the problem of cognitive bloat in extended cognition that is based on C&C’s parity principle. [Here](https://perrin-ay.github.io/mind/2021/12/01/Extended-cognition-without-cognitive-bloat.html){:target="_blank"} I argue for an alternative view on the mark of the cognitive that utilizes dynamical systems theory. 
+
+---
+### Bibliography
+
+Beer. (1995). A dynamical systems perspective on agent-environment interaction. Artificial Intelligence, 72(1-2), 173–215. https://doi.org/10.1016/0004-3702(94)00005-L
+
+Block. (2007). Functionalism. In Consciousness, Function, and Representation (Vol. 1). The MIT Press. https://doi.org/10.7551/mitpress/2111.003.0003
+
+Block, & Fodor, J. A. (1980). What Psychological States Are Not. In The Language and Thought Series (Originally published 1980, pp. 237–250). Harvard University Press. https://doi.org/10.4159/harvard.9780674594623.c29
+
+Chemero. (2009). Radical embodied cognitive science / Anthony Chemero. MIT Press.
+
+Clark. (2008). Supersizing the mind : embodiment, action, and cognitive extension / Andy Clark. Oxford University Press.
+
+Clark, & Chalmer, D. (1998). The Extended Mind.
+
+Enns. (2011). It’s a nonlinear world / Richard H. Enns. Springer.
+
+Fuchs. (2013). Nonlinear dynamics in complex systems theory and applications for the life-, neuro- and natural sciences / Armin Fuchs. Springer.
+
+Holden, Van Orden, G. C., & Turvey, M. T. (2009). Dispersion of Response Times Reveals Cognitive Dynamics. Psychological Review, 116(2), 318–342. https://doi.org/10.1037/a0014849
