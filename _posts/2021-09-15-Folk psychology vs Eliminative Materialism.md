@@ -64,6 +64,8 @@ Hermeneutical injustice occurs when one cannot render comprehensible to others (
 
 Here too we find TV does not comport well with hermeneutical injustice , as discussed earlier in the culture section , it's not clear why and how theories would be different between social groups within the same culture and society. Furthermore TV fails to explain why this issue persists, why TV simply can't start using the correct theory to render marginalised groups thoughts and actions intelligible. 
 
+---
+
 ### Concluding Remarks
 
 RV is a promising account, capable of explaining some everyday situations of FP  failures, which TV does not.  Additionally, it comports well with the philosophical problem of hermeneutical injustice. I want to propose this makes a stronger case for RV as the true account. But since RV does not take FP to be a theory, RV also makes a case against the EM argument which takes TV as a premise. And if RV is correct, then it proves fatal to the EM claims of propositional attitude not reducible in the framework of neuroscience. 
