@@ -6,7 +6,7 @@ date: 2021-12-1T07:00:00-07:00
 category: Mind
 tags: Mind
 ---
-![TE image](/images/extendedcog.jfif){: style="width:400px; float:center;"}
+![TE image](/images/dynamical.jfif){: style="width:400px; float:center;"}
 
 
 ### Introduction
