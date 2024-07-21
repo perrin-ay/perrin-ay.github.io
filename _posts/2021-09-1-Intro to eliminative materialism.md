@@ -8,10 +8,6 @@ tags: Mind
 ---
 ![TE image](/images/em.jfif){: style="width:400px; float:center;"}
 
-[In part 1](https://perrin-ay.github.io/ethics/mind/epistemology/2019/10/19/The-complicated-nature-of-doxastic-wrongs.html){:target="_blank"}, using intuition pumps of sketches and vignettes , i tried to conceive the idea of how wronging others may happen simply in viture of belief. Here i further dig into how wronging may track on beliefs.
-
----
-
 ### Folk psychology introduction
 
 Folk psychology (FP) refers to our everyday practice of attributing mental states to others ( and ourselves) in order to explain, and predict their behavior ( and make sense of our own). For instance, having witnessed a coworker looking for some creamer in the wrong cupboard, one might explain her behavior by attributing to her the false belief of the creamer located in that cupboard.
@@ -44,7 +40,7 @@ Churchland’s EM argument (ibid.) can be formulated as follows:
     
 7. From #5 and #6 , since FP is irreducible to neuroscience, it should be eliminated. 
 
-In this formulation, Churchland’s EM claim that terms of FP do not refer, hinges on #1, the premise that FP is a theory. Starting with this premise, he goes on to conclude that FP is irreducible to neuroscience in #5. Then combined with premise #6, he concludes FP should be eliminated. But conclusion in #5 is only reached if #2 , #3 and #4 are satisfied. But if FP is not a theory, then #2, #3 and #4 are not applicable. So why does Churchland take FP to be a theory ? In the next section I will consider his proposal for conferring the theory status to FP.
+In this formulation, Churchland’s EM claim that terms of FP do not refer, hinges on #1, the premise that FP is a theory. Starting with this premise, he goes on to conclude that FP is irreducible to neuroscience in #5. Then combined with premise #6, he concludes FP should be eliminated. But conclusion in #5 is only reached if #2 , #3 and #4 are satisfied. But if FP is not a theory, then #2, #3 and #4 are not applicable. So why does Churchland take FP to be a theory ? [Here](https://perrin-ay.github.io/mind/2021/09/15/Folk-psychology-vs-Eliminative-Materialism.html){:target="_blank"}I consider his proposal for conferring the theory status to FP.
 
 ---
 
