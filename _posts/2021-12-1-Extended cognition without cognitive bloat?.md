@@ -28,8 +28,8 @@ A consequence of nonlinearity is that effects of change or variance in behavior 
 
 To conclude of this subsection, what are salient to NLDS is:
 
-1. Interactive-dominant dynamics
-2. Non-decomposability of system-level dynamics to individual component-level dynamics
+1. Interactive-dominant dynamics.
+2. Non-decomposability of system-level dynamics to individual component-level dynamics.
    
 #### Cognitive systems
 Cognitive and psychological sciences have increasingly employed DST to model and measure cognitive processes revealed by bodily movements and interactions with the environment. For instance, in child psychology (Thelen & Smith 1993), human decision-making (van Rooij, Favela, Malone, & Richardson 2013), body and world (Chemero 2009), vision cognition (Stephen, & Mirman 2010), and social psychology (Richardson, & Marsh 2014). 
@@ -59,7 +59,7 @@ For convenience, I will refer to the circular coupling of components i.e the mar
 
 ---
 ### Conclusion
-Insofar my discussions in this paper are convincing, I have shown that extended cognition is only vulnerable to bloat when its thesis is cashed out in terms of the functional similarity. But when understood and explained as a NLDS, there can be extended cognition without bloat. 
+Insofar my discussions are convincing, I have shown that extended cognition is only vulnerable to bloat when its thesis is cashed out in terms of the functional similarity. But when understood and explained as a NLDS, there can be extended cognition without bloat. 
 
 ---
 
