@@ -47,4 +47,4 @@ In the context of hermeneutics of experience, understanding social experience (r
 
 And in the case of an average user of that society’s language, to understand a social experience would mean to deploy sensemaking concepts that are in the collective hermeneutical resources and that are also part of the collective understanding ( per my usage of ‘deploy’ and (2))
 
- Contd here, where I present an irregularity in Frickers account and elucidate my own argument/account.
+ [Contd here](https://perrin-ay.github.io/thought-experiments/2019/09/21/Accounting-for-thought-experiments-Part2.html){:target="_blank"}, where I present an irregularity in Frickers account and elucidate my own argument/account.
