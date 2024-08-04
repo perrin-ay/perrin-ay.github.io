@@ -2,7 +2,7 @@
 layout: post
 title: "What was Hume really on about?"
 description: "Hume's genetic concern"
-date: 2019-9-01T07:00:00-07:00
+date: 2019-09-01T07:00:00-07:00
 category: [Hume]
 tags: [Hume, Epistemology]
 ---
