@@ -1,11 +1,12 @@
+---
 layout: posts
 title: "An alternative proposal to the knowledge account of assertion."
 description: "An alternative proposal to the knowledge account of assertion."
 date: 2021-01-30T07:00:00-07:00
 category: [Epistemology]
 tags: [Epistemology]
-
 ---
+
 ![TE image](/images/goodreasons.jfif){: style="width:400px; float:center;"}
 
 [Here](https://perrin-ay.github.io/epistemology/2020/12/16/The-knowledge-account-of-assertion.html){:target="_blank"}, I explored the knowledge account of assertion (KNA) and its shortcomings, particularly challenging its overriding-norms and secondary propriety maneuvers. In the following post i present an alternative proposal to KNA that is hearer sensitive and tracks good reasons.
