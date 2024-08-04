@@ -34,3 +34,46 @@ More on this point, consider buying car rental insurance in Iceland, and after e
 
 To conclude it doesn't appear to be the case ( at least not always) that speakers asserting their justified beliefs, believe that they know what they assert, at least not in the manner philosophers and defenders of KNA would have us consider “knowing”. Instead, it appears speakers simply believe they are conforming to good reasons for what they assert.  
 
+---
+
+### Bibliography
+ 
+Basu, Rima, and Schroeder, Mark. “Doxastic Wronging.” Pragmatic Encroachment in Epistemology, 1st ed., Routledge, 2019, pp. 181–205.
+
+Bostrom, Nick. “Are We Living in a Computer Simulation?” The Philosophical Quarterly, vol. 53, no. 211, 2003, pp. 243–255.
+
+Dewey, John, et al. The Essential Dewey. Volume 1, Pragmatism, Education, Democracy. Indiana University Press, 1998
+
+Feldman, Richard, and Conee, Earl. “Between Belief and Disbelief.” Believing in Accordance with the Evidence, vol. 398, Springer International Publishing, Cham, 2018, pp. 71–89. Synthese Library
+
+Gendler, Tamar Szabó “Alief and Belief.” The Journal of Philosophy, vol. 105, no. 10, 2008, pp. 634–663
+
+Greenough, Patrick. “Truth-Relativism, Norm-Relativism, and Assertion.” Assertion: New Philosophical Essays, 2011, pp. Assertion: New Philosophical Essays, 2011–05-01.
+
+Hill, Christopher S, and Schechter, Joshua. “HAWTHORNE'S LOTTERY PUZZLE AND THE NATURE OF BELIEF.” Philosophical Issues, vol. 17, no. 1, 2007, pp. 102–122
+
+Ishani Maitra, and Brian Weatherson. "Assertion, Knowledge, and Action." Philosophical Studies 149.1 (2010): 99-118.
+
+Kvanvig, Jonathan. “Assertion, Knowledge, and Lotteries.” Williamson on Knowledge, Oxford University Press, Oxford, 2009, pp. Williamson on Knowledge, 2009–10-01
+
+Lackey, Jennifer. “Norms of Assertion.” Noûs (Bloomington, Indiana), vol. 41, no. 4, 2007, pp. 594–626.
+
+Levin, Janet. “Assertion, Practical Reason, and Pragmatic Theories of Knowledge.” Philosophy and Phenomenological Research, vol. 76, no. 2, 2008, pp. 359–384.
+
+Lewis, David. “Elusive Knowledge.” Australasian Journal of Philosophy, vol. 74, no. 4, 1996, pp. 549–567.
+
+McGlynn, Aidan. Knowledge First? Palgrave Macmillan, 2014.
+
+Pagin, Peter. “5 Information and Assertoric Force.” Assertion, Oxford University Press, Oxford, 2011, pp. Assertion, 2011–01-27.
+
+Schroeder, Mark. “Stakes, Withholding, and Pragmatic Encroachment on Knowledge.” Philosophical Studies, vol. 160, no. 2, 2011, pp. 265–285.
+
+Searle, John R. Speech Acts : An Essay in the Philosophy of Language. Cambridge University Press, 1969.
+
+Weiner, M. “Must We Know What We Say?” The Philosophical Review, vol. 114, no. 2, 2005, pp. 227–251.
+
+Williamson, Timothy. “Knowing and Asserting.” The Philosophical Review, vol. 105, no. 4, 1996, pp. 489–523.
+
+Williamson, Timothy. Knowledge and Its Limits. Oxford University Press, 2000.
+
+
