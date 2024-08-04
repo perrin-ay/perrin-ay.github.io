@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Hermeneutical Injustice"
+title: "Frickers Hermeneutical Injustice"
 description: "What is it? And Frickers account of Hermeneutical Injustice"
 date: 2021-04-19T07:00:00-07:00
 category: Epistemology
