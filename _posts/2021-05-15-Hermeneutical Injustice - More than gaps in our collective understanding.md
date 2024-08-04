@@ -2,7 +2,7 @@
 layout: posts
 title: "Hermeneutical Injustice - More than gaps in our collective understanding"
 description: "Arguement against Frickers account and on what is missing."
-date: 2021-5-15T07:00:00-07:00
+date: 2021-05-15T07:00:00-07:00
 category: Epistemology
 tags: [Epistemology]
 ---
