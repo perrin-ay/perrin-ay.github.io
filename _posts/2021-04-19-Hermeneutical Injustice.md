@@ -48,3 +48,32 @@ In the context of hermeneutics of experience, understanding social experience (r
 And in the case of an average user of that society’s language, to understand a social experience would mean to deploy sensemaking concepts that are in the collective hermeneutical resources and that are also part of the collective understanding ( per my usage of ‘deploy’ and (2))
 
  [Contd here](https://perrin-ay.github.io/epistemology/2021/05/15/Hermeneutical-Injustice-More-than-gaps-in-our-collective-understanding.html){:target="_blank"}, where I present irregularities in Frickers account and elucidate my own argument/account.
+
+---
+
+### Bibliography
+
+Fricker, Miranda. Epistemic Injustice: Power and the Ethics of Knowing. Oxford University Press, 2007.
+
+Hänel, Hilkje Charlotte. What Is Rape?: Social Theory and Conceptual Analysis. Transcript, 2018.
+
+Jenkins, Katharine. “Rape Myths and Domestic Abuse Myths as Hermeneutical Injustices.” Journal of Applied Philosophy, vol. 34, no. 2, 2017, pp. 191–205.
+
+Judith A. Howard. “A Social Cognitive Conception of Social Structure.” Social Psychology Quarterly, vol. 57, no. 3, 1994, pp. 210–227.
+
+Kristie Dotson. “Accumulating Epistemic Power.” Philosophical Topics, vol. 46, no. 1, 2018, pp. 129–154.
+
+Margolis, Eric, and Laurence, Stephen. “Concepts and Theoretical Unification.” The Behavioral and Brain Sciences, vol. 33, no. 2-3, 2010, pp. 219–220.
+
+Medina, José The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations. Oxford University Press, 2013.
+
+Pariser, Eli. The Filter Bubble: What the Internet Is Hiding from You. Penguin, 2012.
+
+Pritchard, Duncan. “Knowledge, Understanding and Epistemic Value.” Royal Institute of Philosophy Supplement, vol. 64, 2009, pp. 19–43.
+
+Susan Brownmiller. “In Our Time: Memoir of a Revolution” Herizons, vol. 14, no. 2, 2000, p. 36.
+
+William H. Sewell. “A Theory of Structure: Duality, Agency, and Transformation.” The American Journal of Sociology, vol. 98, no. 1, 1992, pp. 1–29.
+
+
+
