@@ -66,3 +66,27 @@ In section 4, I argued for the prolonged time that sensemaking terms may incur t
 
 Fricker assumes hermeneutical injustice to be a purely structural issue, but I have shown that resistance in getting to eventC may be mounted by individuals ( at least in cases 4.,3 and 4.5). Insofar as hermeneutical  injustice continues to occur after eventL and prior to eventC, hermeneutical injustice is not purely structural, as resistance can be agent inculpate.
 Fricker contends there are gaps in the collective hermeneutical resources which need to be filled , I contend that it's not always just a gap , but an existing term that needs to be replaced. Fricker assumes the gap is equally present for everyone, but if my accounting has been correct, then that is not the case, since in the journey from eventL to eventC, we will find many individuals in society for whom the sensemaking term is available to render their experience intelligible. 
+
+### Bibliography
+
+Fricker, Miranda. Epistemic Injustice: Power and the Ethics of Knowing. Oxford University Press, 2007.
+
+Hänel, Hilkje Charlotte. What Is Rape?: Social Theory and Conceptual Analysis. Transcript, 2018.
+
+Jenkins, Katharine. “Rape Myths and Domestic Abuse Myths as Hermeneutical Injustices.” Journal of Applied Philosophy, vol. 34, no. 2, 2017, pp. 191–205.
+
+Judith A. Howard. “A Social Cognitive Conception of Social Structure.” Social Psychology Quarterly, vol. 57, no. 3, 1994, pp. 210–227.
+
+Kristie Dotson. “Accumulating Epistemic Power.” Philosophical Topics, vol. 46, no. 1, 2018, pp. 129–154.
+
+Margolis, Eric, and Laurence, Stephen. “Concepts and Theoretical Unification.” The Behavioral and Brain Sciences, vol. 33, no. 2-3, 2010, pp. 219–220.
+
+Medina, José The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations. Oxford University Press, 2013.
+
+Pariser, Eli. The Filter Bubble: What the Internet Is Hiding from You. Penguin, 2012.
+
+Pritchard, Duncan. “Knowledge, Understanding and Epistemic Value.” Royal Institute of Philosophy Supplement, vol. 64, 2009, pp. 19–43.
+
+Susan Brownmiller. “In Our Time: Memoir of a Revolution” Herizons, vol. 14, no. 2, 2000, p. 36.
+
+William H. Sewell. “A Theory of Structure: Duality, Agency, and Transformation.” The American Journal of Sociology, vol. 98, no. 1, 1992, pp. 1–29.
