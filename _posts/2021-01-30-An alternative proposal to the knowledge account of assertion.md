@@ -4,6 +4,7 @@ description: "An alternative proposal to the knowledge account of assertion."
 date: 2021-01-30T07:00:00-07:00
 category: [Epistemology]
 tags: [Epistemology]
+
 ---
 ![TE image](/images/goodreasons.jfif){: style="width:400px; float:center;"}
 
