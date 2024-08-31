@@ -10,7 +10,7 @@ tags: Mind
 
 
 ### Introduction
-Clark and Chalmers (Clark & Chalmers, 1998) introduce the notion of cognitive processes extending out of our heads and into the world.  
+Clark and Chalmers (Clark & Chalmers, 1998) introduced the notion of cognitive processes extending out of our heads and into the world.  
 [Here](https://perrin-ay.github.io/mind/2021/11/20/Extended-cognition-succumbs-to-bloat.html){:target="_blank"} I talked about how Clark and Chalmers (C&C) ground their thesis on the parity principle which is committed to a Martian saving coarse-grained functionalism. And how this functionalist stance is ultimately doomed and licenses cognitive bloat.
 
 In this post I propose an alternative view that utilizes modeling extended cognition as nonlinear dynamical systems, where I discuss interactive-dominant dynamics and circular causality of components that are salient to Nonlinear dynamical systems and how these can be applied to make a positive case for extended cognition systems that does not succumb to cognitive bloat. 
@@ -18,7 +18,7 @@ In this post I propose an alternative view that utilizes modeling extended cogni
 ---
 ### Dynamical cognitive system
 
-Dynamic systems are those that evolve and change over time. Dynamical systems theory (DST) provides the necessary tools - ordinary differential equations and state-space plots, to evaluate and model such systems (Strogatz 2015). In this section I will discuss nonlinear dynamical systems whose properties are conducive to modeling organism-environment interactions during cognitive tasks. I will go on to show how genuine cases of extended cognition are explained by nonlinear dynamics and the mark of the cognitive that this deliver’s is not plagued by cognitive bloat. 
+Dynamic systems are those that evolve and change over time. Dynamical systems theory (DST) provides the necessary tools - ordinary differential equations and state-space plots, to evaluate and model such systems (Strogatz 2015). Here I discuss nonlinear dynamical systems whose properties are conducive to modeling organism-environment interactions during cognitive tasks. And I will go on to show how genuine cases of extended cognition are explained by nonlinear dynamics and the mark of the cognitive that this deliver’s is not plagued by cognitive bloat. 
 
 #### Nonlinear dynamical system
 Dynamic systems may behave linearly or nonlinearly. Nonlinearity ensues when the components of the system are interdependent and circularly interactive, resulting in system-level outputs that are exponential or multiplicative rather than proportional to its inputs (Enns 2010). Nonlinear dynamical systems (NLDS) exhibit interaction-dominant dynamics, since it is not the additive and linear sum of individual component processes, but the continual circular interactions of components as a whole that gives rise to system-level dynamics (behavior over time). In contrast, components in linear dynamical systems (LDS) are relatively independent (not interdependent), having negligible-to-no circular interactions and acting only in an additive relationship to each other. LDS exhibit component-dominant dynamics, where the output is proportional to its input, since the output is the additive and linear sum of individual component dynamics (Holden et al., 2009).
@@ -54,8 +54,6 @@ This completes my discussions on extended cognitive systems modeled as NLDS and 
 #### Bloat assessment
 For convenience, I will refer to the circular coupling of components i.e the mark of the cognitive discussed in section 3 as markC and the functional parity mark of the cognitive discussed in section 2 as markF.  In section 2.1, I discussed how the typical extended case of pen and paper can be modeled as a NLDS and satisfies markC. Let's consider the cognitive bloat illustration from section 2.3 of the cell phone phonebook that one has never used. Unlike markF, markC does not count this as extended cognition as we don’t find this organism-phone/phonebook system as interactive-dominant where there is circular causality. Simply having reliable access to the phone/phonebook does not grant it extended cognitive status per markC. Similarly other typical bloat vignettes such as “picking up a book and coming to believe everything in it” or “possessing the cognitive process of any program in your computer” which pass markF (Sprevak 2009) would not pass markC. These would pass markF since the functional parity principle I argued for in section 2 is committed to the Martian intuition saving, coarse-grained functionalism and one could always imagine a Martian with internal cognitive processes that are functional similar- say a Martian with several innate cognitive processes (processes akin to the computer programs in one’s computer) and physical constitution that supports the algorithmic and processing requirement of running those processes. The Martian might not even be aware of these innate cognitive features and comes to know of them only when it is brought to her attention and so on.
 
----
-### Conclusion
 Insofar my discussions are convincing, I have shown that extended cognition is only vulnerable to bloat when its thesis is cashed out in terms of the functional similarity. But when understood and explained as a NLDS, there can be extended cognition without bloat. 
 
 ---
