@@ -8,7 +8,7 @@ tags: [Ethics, Mind, Epistemology]
 ---
 ![TE image](/images/dw.jfif){: style="width:400px; float:center;"}
 
-[In part 1](https://perrin-ay.github.io/ethics/mind/epistemology/2019/10/19/The-complicated-nature-of-doxastic-wrongs.html){:target="_blank"}, using intuition pumps of sketches and vignettes , i tried to conceive the idea of how wronging others may happen simply in viture of belief. Here i explore this further.
+[In part 1](https://perrin-ay.github.io/ethics/mind/epistemology/2019/10/19/The-complicated-nature-of-doxastic-wrongs.html){:target="_blank"}, using intuition pumps of sketches and vignettes , I tried to conceive and motivate the idea of how wronging others may happen simply in viture of belief. Here I explore this further.
 
 ---
 
@@ -36,7 +36,7 @@ Take the following sketch of a hit and run cab at night. Two services operate in
 
 So it would seem while belief supervenes on evidence, there is some cognitive space between doxastic attitudes and evidence. And that a personal element asserts itself in this cognitive space leading to different doxastic attitudes when presented with the same evidence5. It accounts for how we subjectively respond to the evidence based on our interests, motivations, background knowledge and stakes involved, all of which then dictates our epistemic inquiries where we ask questions of the evidence. Collectively this constitutes our epistemic reasons which is the lens through which we look at evidence, prior to taking any doxastic attitude from it. The proponents of involuntary belief from evidence pack too much in their claim. When we unpack it, we find that the claim subsumes the intellectual cognitive space of epistemic reasons. And these epistemic reasons might be enough to exert some control over beliefs in a meaningful way.
 
-Epistemic reasons which support positive evaluation of evidence and positive epistemic status could be nurtured as epistemic virtues6. For example open-mindedness and intellectual humility have been accounted to contribute to positive evaluation of evidence. And so by developing positive epistemic reasons as epistemic virtues or skills one exerts some control over one's doxastic attitudes.
+Epistemic reasons which support positive evaluation of evidence and positive epistemic status could be nurtured as epistemic virtues. For example open-mindedness and intellectual humility have been accounted to contribute to positive evaluation of evidence. And so by developing positive epistemic reasons as epistemic virtues or skills one exerts some control over one's doxastic attitudes.
 
 ---
 
