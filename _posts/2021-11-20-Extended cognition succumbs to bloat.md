@@ -51,8 +51,6 @@ For instance, according to #3, simply having reliable access to a cellphone whic
 
 The problem with committing to a functionalist account that is Martian intuition saving coarse-grained, is that it leaves the door open to conjure up a Martian with internal cognitive processes that can made functionally similar to intuitively implausible accounts of extended processes. And so, I argue that the cognitive bloat problems that plague EXT clearly reside with this mark of the cognitive that the parity principle is committed to, and EXT succumbs to cognitive bloat under this view.
 
-This completes my discussions on the problem of cognitive bloat in extended cognition that is based on C&C’s parity principle. [Here](https://perrin-ay.github.io/mind/2021/12/01/Extended-cognition-without-cognitive-bloat.html){:target="_blank"} I argue for an alternative view on the mark of the cognitive that utilizes dynamical systems theory. 
-
 ---
 ### Bibliography
 
