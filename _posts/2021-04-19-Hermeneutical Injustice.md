@@ -47,7 +47,7 @@ In the context of hermeneutics of experience, understanding social experience (r
 
 And in the case of an average user of that society’s language, to understand a social experience would mean to deploy sensemaking concepts that are in the collective hermeneutical resources and that are also part of the collective understanding ( per my usage of ‘deploy’ and (2))
 
- [Contd here](https://perrin-ay.github.io/epistemology/2021/05/15/Hermeneutical-Injustice-More-than-gaps-in-our-collective-understanding.html){:target="_blank"}, where I present irregularities in Frickers account and elucidate my own argument/account.
+ [Contd here](https://perrin-ay.github.io/epistemology/2021/05/15/Hermeneutical-Injustice-More-than-gaps-in-our-collective-understanding.html){:target="_blank"}, where I present irregularities in Frickers account and elucidate my own argument.
 
 ---
 
