@@ -73,7 +73,9 @@ Thus, the strength of an explanatory hypothesis H i.e its explanatory power, sho
 
 According to personalism (Dorling & Miller 1981) probabilities can be interpreted as the  doxastic dispositions of degrees of belief  and map onto the reasoner's degree of expectedness in a proposition. An expected fact for a reasoner is one where her degree of expectedness ( degree of belief) and confidence in the fact is high, and so the probability for it is high. A surprising fact is an unexpected fact and the probability for it is low. Thus the explanatory power that I described above can be formalized in terms of probabilities as follows:
 
+```
 Explanatory power (EP)  = P(E|H) / P(E), 
+```
 
 Where P(E|H) is the probability ( expectedness ) of fact E given the hypothesis H, and P(E) is the prior expectedness of E. 
 
@@ -139,3 +141,40 @@ Since P(E|y) >  P(E|yhat), the likelihood ratio of P(E|y)/P(E|yhat) and the post
 ### 5. Conclusion
 
 Having shown that objective bayesianism is equal to my measure of explanatory power, which is also consistent with explanatory goodness in IBE, I have argued that bayesianism and IBE will usually arrive at similar inferences. My discussions also include locating explanatory considerations of IBE including virtue of simplicity as an inherent part of the bayesian operation, thereby meeting the desiderata of strong compatibilism. 
+
+## Bibliography
+
+Gillies. (2000). Philosophical Theories of Probability. Routledge. https://doi.org/10.4324/9780203132241
+
+Lipton. (2004). Inference to the best explanation / Peter Lipton. (Second edition.). Routledge
+
+MacKay. (2004). Information Theory, Inference, and Learning Algorithms. IEEE Transactions on Information Theory, 50(10), 2544–2545. https://doi.org/10.1109/TIT.2004.834752
+
+Vogel, J.(1998). Inference to the best explanation. In The Routledge Encyclopedia of Philosophy. Taylor and Francis. Retrieved 27 Apr. 2022, from https://www.rep.routledge.com/articles/thematic/inference-to-the-best-explanation/v-1. doi:10.4324/9780415249126-P025-1
+
+Fann. (1970). Peirce’s theory of abduction / by K.T. Fann. Martinus Nijhoff.
+
+Huemer. (2009). Explanationist Aid for the Theory of Inductive Logic. The British Journal for the Philosophy of Science, 60(2), 345–375. https://doi.org/10.1093/bjps/axp008
+
+Jaynes, & Bretthorst, G. L. (2003). Probability theory : the logic of science / E.T. Jaynes ; edited by G. Larry Bretthorst. Cambridge University Press.
+
+Goodman. (1965). Fact, fiction and forecast / Nelson Goodman. (Second edition.). Bobbs-Merrill.
+
+Aliseda-LLera. (1997). Seeking explanations: Abduction in logic, philosophy of science and artificial intelligence. ProQuest Dissertations Publishing.
+
+THOMPSON. (2019). Questions and Answers: Metaphysical Explanation and the Structure of Reality. Journal of the American Philosophical Association, 5(1), 98–116. https://doi.org/10.1017/apa.2018.51
+
+Dorling, & Miller, D. (1981). Bayesian Personalism, Falsificationism, and the Problem of Induction. Supplementary Volume - Aristotelian Society, 55(1), 109–141. https://doi.org/10.1093/aristoteliansupp/55.1.109
+
+Weisberg. (2009). Locating IBE in the Bayesian Framework. Synthese, 167(1), 125–143. https://doi.org/10.1007/s11229-008-9305-y
+
+Roger White. (2005). Explanation as a Guide to Induction. Philosophers’ Imprint, 5, 1–.
+
+W. C. SALMON “Statistical Explanation and Statistical Relevance” (Book Review). (1972). Philosophical Books, 13(3), 30–. Basil Blackwell.
+
+Jefferys, & Berger, J. O. (1992). Ockham’s Razor and Bayesian Analysis. American Scientist, 80(1), 64–72.
+
+Kolmogorov, A. N., & Bharucha-Reid, A. T. (2018). Foundations of the theory of probability: Second English Edition. Courier Dover Publications.
+
+
+
