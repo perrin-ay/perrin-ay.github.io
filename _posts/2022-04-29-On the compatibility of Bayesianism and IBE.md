@@ -78,9 +78,9 @@ According to personalism (Dorling & Miller 1981) probabilities can be interprete
 Explanatory power (EP)  = P(E|H) / P(E), 
 ```
 
-Where P(E|H) is the probability ( expectedness ) of fact E given the hypothesis H, and P(E) is the prior expectedness of E. 
+Where ```P(E|H)``` is the probability ( expectedness ) of fact E given the hypothesis H, and P(E) is the prior expectedness of E. 
 
-This captures the notion of explanatory power as the relative change of expectedness in E that H brings about. When P(E|H) > P(E), then EP >1 and H has increased the degree to which one expects E. When P(E|H) =P(E), then EP = 1 and H has no explanatory power and brings about no change in E’s expectedness.
+This captures the notion of explanatory power as the relative change of expectedness in E that H brings about. When ```P(E|H) > P(E)```, then EP >1 and H has increased the degree to which one expects E. When ```P(E|H) =P(E)```, then EP = 1 and H has no explanatory power and brings about no change in E’s expectedness.
 
 
 ### 3.2 Explanatory power and IBE
@@ -91,9 +91,9 @@ Analytic explanation: Because opium has dormative power.
 
 Since this is an analytical explanation, it is a very likely explanation , but it is not a good or a ‘lovely’ explanation since it provides no understanding as to why opium tends to put people to sleep. In terms of EP, since the analytic explanation H is a tautology of explanandum E , it will not bring about any increase in E’s expectedness. The expectedness of E given H remains the same as the prior expectedness of E. Thus EP also judges this to be a poor explanation with no explanatory power in explaining E.
 
-Similarly, a hypothesis that is irrelevant in relation to the explanandum and whose explanatory content has nothing to do with the explanandum, would not serve as a good explanation in IBE. Nor would it in the above formulation of EP. Since H is irrelevant , E and H statistically independent and H has no effect on the likelihood of E,  and so P(E|H)=P(E), which returns EP =1, and thereby the irrelevant hypothesis H has no explanatory power over E. 
+Similarly, a hypothesis that is irrelevant in relation to the explanandum and whose explanatory content has nothing to do with the explanandum, would not serve as a good explanation in IBE. Nor would it in the above formulation of EP. Since H is irrelevant , E and H statistically independent and H has no effect on the likelihood of E,  and so ```P(E|H)=P(E)```, which returns EP =1, and thereby the irrelevant hypothesis H has no explanatory power over E. 
 
-As a final comparison, consider Salmon’s (Salmon 1972) example of John Jones who avoids becoming pregnant because he regularly takes birth control pills. The hypothesis of taking birth control pills has a positive effect on the likelihood of not becoming pregnant, it raises the expectedness of pregnancy avoidance and P(E|H) is high. If P(E|H) , the degree of expectedness in E given H, i.e. the likelihood of not becoming pregnant given regular use of birth control pills, was the only measure of EP, then it would diverge from judgements of IBE and incorrectly grant this as an explanation to why John Jones (a cis male) avoids becoming pregnant. But EP is formalized as the ratio of likelihood over prior expectedness. Prior expectedness of Jones not becoming pregnant is 1 i.e P(E) =1 ,so even though P(E|H) is high, EP is not greater than 1 and has no explanatory power here.
+As a final comparison, consider Salmon’s (Salmon 1972) example of John Jones who avoids becoming pregnant because he regularly takes birth control pills. The hypothesis of taking birth control pills has a positive effect on the likelihood of not becoming pregnant, it raises the expectedness of pregnancy avoidance and ```P(E|H)``` is high. If ```P(E|H)``` , the degree of expectedness in E given H, i.e. the likelihood of not becoming pregnant given regular use of birth control pills, was the only measure of EP, then it would diverge from judgements of IBE and incorrectly grant this as an explanation to why John Jones avoids becoming pregnant. But EP is formalized as the ratio of likelihood over prior expectedness. Prior expectedness of Jones not becoming pregnant is 1 i.e P(E) =1 ,so even though ```P(E|H)``` is high, EP is not greater than 1 and has no explanatory power here.
 
 
 ### 4. Strong compatibility 
@@ -103,8 +103,10 @@ In this section I show that objective bayesianism is equal to the measure of exp
 ### 4.1 Locating explanatory considerations in bayesianism
 In the previous section I argued that my formulation of explanatory power as the ratio of likelihood of E given H , over the prior probability of E, where E is the explanandum and H is the hypothesis, is consistent with IBE’s judgment of explanatory goodness to determine good or best explanations.
 
-But this ratio is nothing but the conditionalization component P(E|H) / P(E) of the bayes theorem. Bayesian posterior probability is the prior probability of hypothesis conditionalized on evidence and denoted by the product of P(E|H)/P(E) and prior probability P(H). Supposing objective bayesianism, which implements equal prior probabilities in the hypothesis-space per the principle of indifference (Jaynes & Bretthorst 2003) , then the posterior probability is simply equal to the ratio P(E|H)/P(E). And this is the same as EP, which I showed to be consistent with the judgments of explanatory goodness in IBE . Thus, we have a clear case in objective bayesianism where its judgements on hypotheses not only correspond to judgments of IBE, but a factor that is proportional to explanatory goodness in IBE, can be located as an inherent component of the bayes theorem. 
-4.2 Locating the simplicity virtue in bayesianism
+But this ratio is nothing but the conditionalization component ```P(E|H) / P(E)``` of the bayes theorem. Bayesian posterior probability is the prior probability of hypothesis conditionalized on evidence and denoted by the product of ```P(E|H)/P(E)``` and prior probability P(H). Supposing objective bayesianism, which implements equal prior probabilities in the hypothesis-space per the principle of indifference (Jaynes & Bretthorst 2003) , then the posterior probability is simply equal to the ratio ```P(E|H)/P(E)```. And this is the same as EP, which I showed to be consistent with the judgments of explanatory goodness in IBE . Thus, we have a clear case in objective bayesianism where its judgements on hypotheses not only correspond to judgments of IBE, but a factor that is proportional to explanatory goodness in IBE, can be located as an inherent component of the bayes theorem.
+
+
+### 4.2 Locating the simplicity virtue in bayesianism
 Liptons model of IBE argues for an ‘inference to the loveliest explanation’ where the mark of a lovely explanation can be found in explanatory virtues such as simplicity. In this section I argue that bayesianism inherently implements ‘simplicity’ since its likelihood component will always allocate higher probability to the simpler hypothesis.
 
 ```
@@ -127,7 +129,7 @@ Then the probability of E given Hypothesis1 is P(E|Hypothesis1)=1 / 6 and the pr
 After four draws , E= {16, 8, 2, 64},   P(E|Hypothesis1) =  (1/6)^4=0.00077 and P(E|Hypothesis2)= (1/50)^4= 1.6 x 10^-7.
 ```
 
-The likelihood ratio, which is nothing but the posterior probability ratio,  after four draws is 5000 to 1 in favor of the simpler hypothesis,  Hypothesis1. The key point is this: The simpler hypothesis with less number of assumptions fits or yields a smaller range of outcomes , Hypothesis1 can generate six outcomes versus Hypothesis2’s fifty. Since probability density integrates to one ( or for discrete values the probability mass function sums to 1) (Kolmogorov 1933), the probability of observing any one of its outcomes is 1 / number of possible outcomes, which for Hypothesis1 is 1 / 6 versus 1 / 50 for Hypothesis2. Thus if the simpler hypothesis is true, the likelihood of observing E given Hypothesis1 will always be higher than the likelihood of observing E given Hypothesis2 (Jefferys & Berger 1992). While both Hypothesis1 and Hypothesis2 fit E, Hypothesis1 fits only E and nothing else , while Hypothesis2 fits E and other data as well. This can be understood as Hypothesis1 capturing and explaining the core causal principles while Hypothesis2  capturing additional noise.
+The likelihood ratio, which is nothing but the posterior probability ratio,  after four draws is 5000 to 1 in favor of the simpler hypothesis,  Hypothesis1. The key point is this: The simpler hypothesis with less number of assumptions fits or yields a smaller range of outcomes , Hypothesis1 can generate six outcomes versus Hypothesis2’s fifty. Since probability density integrates to one ( or for discrete values the probability mass function sums to 1) (Kolmogorov 1933), the probability of observing any one of its outcomes is ```1 / number of possible outcomes, which for Hypothesis1 is 1 / 6 versus 1 / 50 for Hypothesis2```. Thus if the simpler hypothesis is true, the likelihood of observing E given Hypothesis1 will always be higher than the likelihood of observing E given Hypothesis2 (Jefferys & Berger 1992). While both Hypothesis1 and Hypothesis2 fit E, Hypothesis1 fits only E and nothing else , while Hypothesis2 fits E and other data as well. This can be understood as Hypothesis1 capturing and explaining the core causal principles while Hypothesis2  capturing additional noise.
 
 Consider another example, we start with two hypotheses , H1 = coin with double-sided heads and H2 = a regular unbiased coin. A coin is flipped ten times and each time it lands on a head. As objective bayesians we start with objective priors, but after ten tries, the likelihood of observing ten heads given H1 is much higher than given H2. In this case again H1 is the simpler hypothesis as it fits or yields a smaller number of possible outcomes ( just one outcome) compared to H2, and if H1 is true ( coin flips continue to yield only heads) , the likelihood ratio and thus the posterior ratio will be in favor of it, even though H2 can generate and fit all the observed outcomes of heads as well.  
 
@@ -135,12 +137,12 @@ Regarding scientific models and tunable parameters, the more tunable parameters 
 
 To evaluate this in objective bayesian terms, 
 When y is true and observed data E matches the outcomes of y and yhat,
-
+```
 For model y, the likelihood probability of observing E given y = P(E|y) = 1/N
 For model yhat , P(E|yhat) = 1/(N+M)  
 
 Since P(E|y) >  P(E|yhat), the likelihood ratio of P(E|y)/P(E|yhat) and the posterior ratio is greater than 1. Thus bayesianism favors the simpler model y with less number of tunable parameters ( Mackay 2003). 
-
+```
 ### 5. Conclusion
 
 Having shown that objective bayesianism is equal to my measure of explanatory power, which is also consistent with explanatory goodness in IBE, I have argued that bayesianism and IBE will usually arrive at similar inferences. My discussions also include locating explanatory considerations of IBE including virtue of simplicity as an inherent part of the bayesian operation, thereby meeting the desiderata of strong compatibilism. 
