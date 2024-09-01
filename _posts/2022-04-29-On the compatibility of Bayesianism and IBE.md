@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: "On the compatibility of Bayesianism and IBE?"
-description: "On the compatibility of Bayesianism and IBE.md"
-date: 2021-12-1T07:00:00-07:00
+title: "On the compatibility of Bayesianism and IBE"
+description: "On the compatibility of Bayesianism and IBE"
+date: 2022-04-29T07:00:00-07:00
 category: Epistemology
 tags: Epistemology
 ---
