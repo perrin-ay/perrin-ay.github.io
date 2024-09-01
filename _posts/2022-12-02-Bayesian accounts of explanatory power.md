@@ -28,7 +28,9 @@ The EP of an explanation or hypothesis is our measure or judgment of its strengt
 Peirce contends that the function of explanatory reasoning is in the generation of candidate hypotheses that are worthy of further assessment and calls this abduction (Peirce 1934). He formulates this as the following three-step inferential pattern (PI):
 
 1)The surprising fact, E, is observed; 
+
 2)But if H were true, E would be a matter of course, 
+
 3)Hence, there is reason to suspect that H is true
 
 Peirce takes the statement  “a matter of course” to indicate having a satisfactory explanation for the explanandum E (Frankfurt 1958;Douven 2022) and characterizes the EP of a hypothesis H over E as the ability of H to minimize the surprise in E and render E expected, by providing a satisfactory explanation for it.
