@@ -144,6 +144,8 @@ Since P(E|y) >  P(E|yhat), the likelihood ratio of P(E|y)/P(E|yhat) and the post
 
 Having shown that objective bayesianism is equal to my measure of explanatory power, which is also consistent with explanatory goodness in IBE, I have argued that bayesianism and IBE will usually arrive at similar inferences. My discussions also include locating explanatory considerations of IBE including virtue of simplicity as an inherent part of the bayesian operation, thereby meeting the desiderata of strong compatibilism. 
 
+---
+
 ## Bibliography
 
 Gillies. (2000). Philosophical Theories of Probability. Routledge. https://doi.org/10.4324/9780203132241
