@@ -32,7 +32,8 @@ Compatibility advocates need to show that IBE and bayesianism usually deliver si
 
 Thus the **strong compatibilist desiderata** is:
 
-Show that IBE and bayesianism usually leads to similar judgments
+Show that IBE and bayesianism usually leads to similar judgments.
+
 Show that some explanatory considerations that are typical of IBE, can be found within bayesianism.
 
 
