@@ -37,6 +37,7 @@ Show that IBE and bayesianism usually leads to similar judgments.
 Show that some explanatory considerations that are typical of IBE, can be found within bayesianism.
 
 
+
 ### 2. Compatibility by constraining priors 
 In this section I first discuss the compatibilist strategy that suggests constraining objective priors with explanatory considerations. In the second subsection I argue that such an approach is unsuccessful in showing compatibility, since it ignores the conditionalization component of bayesianism and also does not explicate any explanatory considerations that are naturally inherent to bayesianism.
 
@@ -50,7 +51,7 @@ For example, Weisberg notes that White’s (White 2005) solution to the grue par
 ### 2.2 Objections to Weisberg 
 Explanatory considerations in IBE consider all data i.e.background knowledge, past data and the new data, when passing judgments on hypotheses. But Weisberg's approach with objective bayesianism only focuses on prior probabilities of hypotheses and ignores P(e|h), which is a crucial step in conditionalizing probabilities to new data and it is how degrees of belief are updated in bayesianism. 
 
-Collecting new data and evidence is part and parcel of empirical testing but Weibergs approach ignores the component in the bayes theorem that realizes the relation between new pieces of evidence and hypotheses. Whether the likelihood of new data, given the truth of a hypothesis, is high or low, is not part of Weisberg’s accounting. Not accounting for how new data fares in relation to hypotheses (P(e|h) in the bayes theorem) in terms of explanatory considerations, arguably leaves it untethered and free to diverge from any explanatory related constraints. And since the posterior probability of a hypothesis is the product of P(h) and P(e|h), Weisberg’s account also needs to show P(e|h) to have explanatory character for posterior probabilities to not diverge from verdicts of IBE.
+Collecting new data and evidence is part and parcel of empirical testing but Weibergs approach ignores the component in the bayes theorem that realizes the relation between new pieces of evidence and hypotheses. Whether the likelihood of new data, given the truth of a hypothesis, is high or low, is not part of Weisberg’s accounting. Not accounting for how new data fares in relation to hypotheses ```(P(e|h) in the bayes theorem)``` in terms of explanatory considerations, arguably leaves it untethered and free to diverge from any explanatory related constraints. And since the posterior probability of a hypothesis is the product of ```P(h) and P(e|h)```, Weisberg’s account also needs to show ```P(e|h)``` to have explanatory character for posterior probabilities to not diverge from verdicts of IBE.
 
 Another problem with Weisberg's approach is that it tries to address questions on how to adapt bayesianism such that it is compatible with IBE, rather than explaining how bayesianism is already compatible with IBE. It fails to show that some explanatory considerations of IBE are an inherent part of bayesianism and thereby does not motivate the strong compatibilist position.
 
