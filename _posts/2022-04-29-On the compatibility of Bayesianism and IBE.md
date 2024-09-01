@@ -106,6 +106,7 @@ But this ratio is nothing but the conditionalization component P(E|H) / P(E) of 
 4.2 Locating the simplicity virtue in bayesianism
 Liptons model of IBE argues for an ‘inference to the loveliest explanation’ where the mark of a lovely explanation can be found in explanatory virtues such as simplicity. In this section I argue that bayesianism inherently implements ‘simplicity’ since its likelihood component will always allocate higher probability to the simpler hypothesis.
 
+```
 Consider data E  = {16, 8, 2, 64} , numbers drawn one at a time from a sequence of generated data. We start with two competing sequence generator hypotheses, that equally explain this data but differ in complexity by differing in the number of assumptions 
 
 Hypothesis1= random sequence generator that generates only power of two numbers
@@ -123,6 +124,7 @@ The draw of E is made one at a time , starting with E= {16}
 Then the probability of E given Hypothesis1 is P(E|Hypothesis1)=1 / 6 and the probability of E given Hypothesis2 is P(E|Hypothesis2) = 1 / 50.
 
 After four draws , E= {16, 8, 2, 64},   P(E|Hypothesis1) =  (1/6)^4=0.00077 and P(E|Hypothesis2)= (1/50)^4= 1.6 x 10^-7.
+```
 
 The likelihood ratio, which is nothing but the posterior probability ratio,  after four draws is 5000 to 1 in favor of the simpler hypothesis,  Hypothesis1. The key point is this: The simpler hypothesis with less number of assumptions fits or yields a smaller range of outcomes , Hypothesis1 can generate six outcomes versus Hypothesis2’s fifty. Since probability density integrates to one ( or for discrete values the probability mass function sums to 1) (Kolmogorov 1933), the probability of observing any one of its outcomes is 1 / number of possible outcomes, which for Hypothesis1 is 1 / 6 versus 1 / 50 for Hypothesis2. Thus if the simpler hypothesis is true, the likelihood of observing E given Hypothesis1 will always be higher than the likelihood of observing E given Hypothesis2 (Jefferys & Berger 1992). While both Hypothesis1 and Hypothesis2 fit E, Hypothesis1 fits only E and nothing else , while Hypothesis2 fits E and other data as well. This can be understood as Hypothesis1 capturing and explaining the core causal principles while Hypothesis2  capturing additional noise.
 
