@@ -73,7 +73,7 @@ In the next section I will apply the foregoing Bayesian principles to Lipton’s
 ## Worked illustration of Lipton's vignettes for measuring surprise and explanatory power
 Lipton’s model ( or his joint probability distribution of all h and e) for the situation of his patio grounds after fresh snowfall can be formulated as given in figure 1. As a matter of convenience, and while remaining consistent with the vignette, I assume only two possible hypotheses and two possible observations. Prior to looking onto his patio grounds, Lipton holds the strong belief in hypothesis h1 ( No person walked this path) and this gives him reason to expect the observation of e1 ( no shoe tracks in the snow). Setting this up in Bayesian probabilities  corresponds to the prior probability distribution over states h ( prior to encountering new data) with almost all probability mass concentrated over h1. Numerically, I take the probability of h1 to be 0.9, thereby assigning high degrees of belief in h1l. The numerical assignments of likelihoods that I take in his model are self-explanatory, I take the probability of observing “no shoe tracks in the snow” , given ” no person walked this path”  to be high and equal to 0.9, the probability of observing “no shoe tracks in the snow” , given ” some person recently walked this path”  to be low and equal to 0.1, and so on. For all combinations of likelihoods, see figure 1.
 
-![Figure1](/images/fig1.jfif){: style="width:400px; float:center;"}
+![Figure1](/images/fig1.png){: style="width:400px; float:center;"}
 
 Figure 1: Lipton’s model concerning his patio prior to encountering the tracks in the snow.
 
@@ -107,7 +107,7 @@ The larger the numerical value of surprisal in an observation , the lower is its
 
 Continuing with Lipton's vignette expressed in the inferential pattern of PI, after encountering the surprising observation of e2 “shoe tracks in the snow”  Lipton’s updates his belief over states to hypotheses to h2 “some person recently walked this path” ( in step 2 and 3 of PI). In Bayesian terms this corresponds to shifting the concentration of probability mass from h1 to h2 in the probability distribution over states. In other words, increasing his degrees of belief in h2. Since probabilities need to sum to 1 in a probability distribution, increase in degrees of belief in h2 will also decrease the degrees of belief in h1. As I noted in the previous subsection, updating beliefs in states also brings about a change in the agent’s model (or joint distribution P(e,h)). Figure 2 represents this new model of Lipton’s after inference to h2. 
 
-![Figure2](/images/fig2.jfif){: style="width:400px; float:center;"}
+![Figure2](/images/fig2.png){: style="width:400px; float:center;"}
 
 Figure 2: Lipton’s model after encountering “shoes tracks in the snow” and inferring to “some person recently walked this path” by raising his degrees of belief in it.  
 
