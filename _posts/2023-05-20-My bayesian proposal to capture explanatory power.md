@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: "A new bayesian approach to explanatory power"
-description: "A new bayesian approach to explanatory power"
-date: 2023-02-20T07:00:00-07:00
+title: "My bayesian proposal to capture explanatory power"
+description: "My bayesian proposal to capture explanatory power"
+date: 2023-05-20T07:00:00-07:00
 category: Epistemology
 tags: Epistemology
 ---
