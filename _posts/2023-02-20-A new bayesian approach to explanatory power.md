@@ -73,7 +73,7 @@ In the next section I will apply the foregoing Bayesian principles to Lipton’s
 ## Worked illustration of Lipton's vignettes for measuring surprise and explanatory power
 Lipton’s model ( or his joint probability distribution of all h and e) for the situation of his patio grounds after fresh snowfall can be formulated as given in figure 1. As a matter of convenience, and while remaining consistent with the vignette, I assume only two possible hypotheses and two possible observations. Prior to looking onto his patio grounds, Lipton holds the strong belief in hypothesis h1 ( No person walked this path) and this gives him reason to expect the observation of e1 ( no shoe tracks in the snow). Setting this up in Bayesian probabilities  corresponds to the prior probability distribution over states h ( prior to encountering new data) with almost all probability mass concentrated over h1. Numerically, I take the probability of h1 to be 0.9, thereby assigning high degrees of belief in h1l. The numerical assignments of likelihoods that I take in his model are self-explanatory, I take the probability of observing “no shoe tracks in the snow” , given ” no person walked this path”  to be high and equal to 0.9, the probability of observing “no shoe tracks in the snow” , given ” some person recently walked this path”  to be low and equal to 0.1, and so on. For all combinations of likelihoods, see figure 1.
 
-![](/images/fig1.jfif){: style="width:400px; float:center;"}
+![Figure1](/images/fig1.jfif){: style="width:400px; float:center;"}
 
 Figure 1: Lipton’s model concerning his patio prior to encountering the tracks in the snow.
 
@@ -93,8 +93,7 @@ Using the sum and product rule of probability, the marginal probability is calcu
 = ∑hP(h)P(e=e2|h)
 =P(h1)P(e2 | h1) + P(h2)P(e2 | h2 )
 = 0.9x0.1 + 0.1x0.9
-=0.18
-```
+=0.18```
 
 The marginal probability of observation e2 under Lipton’s model in figure 1, also called its model evidence for e2 (Anderson, D., & Burnham, K. 2004) is only 0.18. This means that under this model Lipton would only expect to observe “shoe tracks in the snow” 18 times out of 100 observations. Thus, we can surmise that this observation is surprising. By bringing this model to the situation of the patio grounds after fresh snowfall, Lipton is left surprised as the model does a poor job of explaining what he sees. Lipton’s model which holds high degrees of belief in hypothesis h1 “No person walked this path”  has poor EP over e2 “shoe tracks in the snow” and provides little to no reason to expect e2. 
 
@@ -108,19 +107,18 @@ The larger the numerical value of surprisal in an observation , the lower is its
 
 Continuing with Lipton's vignette expressed in the inferential pattern of PI, after encountering the surprising observation of e2 “shoe tracks in the snow”  Lipton’s updates his belief over states to hypotheses to h2 “some person recently walked this path” ( in step 2 and 3 of PI). In Bayesian terms this corresponds to shifting the concentration of probability mass from h1 to h2 in the probability distribution over states. In other words, increasing his degrees of belief in h2. Since probabilities need to sum to 1 in a probability distribution, increase in degrees of belief in h2 will also decrease the degrees of belief in h1. As I noted in the previous subsection, updating beliefs in states also brings about a change in the agent’s model (or joint distribution P(e,h)). Figure 2 represents this new model of Lipton’s after inference to h2. 
 
-![](/images/fig2.jfif){: style="width:400px; float:center;"}
+![Figure2](/images/fig2.jfif){: style="width:400px; float:center;"}
 
 Figure 2: Lipton’s model after encountering “shoes tracks in the snow” and inferring to “some person recently walked this path” by raising his degrees of belief in it.  
 
 Calculating marginal probability of e2 under Lipton's new model in figure 2: 
 
-```
-P( e=e2=shoe tracks in the snow) = ∑hP(h,e=e2)
+```P( e=e2=shoe tracks in the snow) = ∑hP(h,e=e2)
 = ∑hP(h)P(e=e2|h)
 =P(h1)P(e2 | h1) + P(h2)P(e2 | h2 )
 = 0.1x0.1 + 0.9x0.9
-=0.82
-```
+=0.82```
+
 Under the new model, the marginal probability of observing the e2 is much higher as under this model which encapsulates high degrees of belief in “some person recently walked this path” Lipton expects to observe “shoe tracks in the snow”  82 times out of 100 observations. 
 
 The measure of surprise in e2 under the new model is:
@@ -154,7 +152,9 @@ Where P(h,e=E)H with the subscript H stands for the agent’s model for observat
   
 [Here](https://perrin-ay.github.io/epistemology/2022/12/02/Bayesian-accounts-of-explanatory-power.html){:target="_blank"}, I had introduced  EP as the strength or quality of a hypothesis H to explain an explanandum E and as the measure of its explanatoriness over E.
 
-Translated in my Bayesian approach for PI, the measure of EP of H over E is simply the marginal probability of E under a model with high degrees of belief in H. Formulaically:
+Translated in my Bayesian approach for PI, the measure of EP of H over E is simply the marginal probability of E under a model with high degrees of belief in H.
+
+Formulaically:
 
 ```EP(H over E) =  ∑hP(h,e=E)H```
 
