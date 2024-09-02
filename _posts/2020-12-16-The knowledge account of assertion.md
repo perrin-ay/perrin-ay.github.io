@@ -34,7 +34,7 @@ More on this point, consider buying car rental insurance in Iceland, and after e
 
 To conclude it doesn't appear to be the case ( at least not always) that speakers asserting their justified beliefs, believe that they know what they assert, at least not in the manner philosophers and defenders of KNA would have us consider “knowing”. Instead, it appears speakers simply believe they are conforming to good reasons for what they assert.  
 
-[In another post](https://perrin-ay.github.io/epistemology/2021/01/30/An-alternative-proposal-to-the-knowledge-account-of-assertion.html){:target="_blank"} I argue for norms tracking "good reasons" and offer an alternative proposal that is hearer sensitive.
+[In another post](https://perrin-ay.github.io/epistemology/2021/01/30/My-alternative-proposal-to-the-knowledge-account-of-assertion.html){:target="_blank"} I argue for norms tracking "good reasons" and offer an alternative proposal that is hearer sensitive.
 
 
 ---
