@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: "Extended cognition without cognitive bloat?"
-description: "Extended cognition without cognitive bloat?"
+title: "My view on extended cognition that escapes cognitive bloat"
+description: "My view on extended cognition that escapes cognitive bloat"
 date: 2021-12-1T07:00:00-07:00
 category: Mind
 tags: Mind
