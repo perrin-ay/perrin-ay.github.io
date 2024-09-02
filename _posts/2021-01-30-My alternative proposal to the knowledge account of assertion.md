@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: "An alternative proposal to the knowledge account of assertion."
-description: "An alternative proposal to the knowledge account of assertion."
+title: "My alternative proposal to the knowledge account of assertion."
+description: "My alternative proposal to the knowledge account of assertion."
 date: 2021-01-30T07:00:00-07:00
 category: [Epistemology]
 tags: [Epistemology]
