@@ -41,7 +41,7 @@ Second, that the agent finds the fact surprising when those beliefs do not conta
 
 I take (2) to be true pro tanto we are concerned with the brand of explanatory reasoning captured by PI. In PI, the inferential pattern begins with surprise in E, and concludes with locating H that reduces that surprise by virtue of having EP over it. If the agent's beliefs had already included suitable explanations like H, there would have been no surprise in E ( since H gives reasons to expect E) and no trigger for PI inferential practice of seeking an explanation for E to minimize the surprise in it.
 
-This lays some groundwork for my proposal that I cover here. In the next section I argue what is problematic with S&S’s approach and the questions that any Bayesian approach to PI must answer.
+This lays some groundwork for my proposal that I cover [here](https://perrin-ay.github.io/epistemology/2023/02/20/A-new-bayesian-approach-to-explanatory-power.html){:target="_blank"}. In the next section I argue what is problematic with S&S’s approach and the questions that any Bayesian approach to PI must answer.
 
 
 ## Argument against Schupbach & Sprenger’s approach 
