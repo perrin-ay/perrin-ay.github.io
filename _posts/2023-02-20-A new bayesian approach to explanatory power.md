@@ -144,7 +144,7 @@ Given my Bayesian approach, the inferential pattern in PI could be reformulated 
 
 And strong analogies can be drawn between my Bayesian approach and what is actually expressed in PI. Peirce notes a surprising ‘fact’ E is observed, suggesting that we know E as a fact that obtains. And the 2nd and 3rd steps in PI address taking the explanatory hypothesis H (which has EP over E) to be true and adopting it, to reduce surprise in E, which corresponds to my approach of locating the lessening of surprise with the increase in the degrees of belief in H and adopting it in ones model. 
 
-For S&S the inequality ```P(E) <P(E|H)``` formalizes the condition expressed in PI that must be met if H were to have EP over E. I have argued in this paper that this formalization in terms of the agent's degrees in belief in E, is problematic. Based on my Bayesian probabilistic approach to PI , the condition expressed in PI that must be met if H were to have EP over E, is the marginal probability of E under a model with low degrees of belief in H <  marginal probability of E under a model with high degrees of belief in H. Formulaically this could be represented as:
+For S&S the inequality ```P(E) <P(E|H)``` formalizes the condition expressed in PI that must be met if H were to have EP over E. I have argued that this formalization in terms of the agent's degrees in belief in E, is problematic. Based on my Bayesian probabilistic approach to PI , the condition expressed in PI that must be met if H were to have EP over E, is the marginal probability of E under a model with low degrees of belief in H <  marginal probability of E under a model with high degrees of belief in H. Formulaically this could be represented as:
 
  ```∑hP(h,e=E) < ∑hP(h,e=E)H```
 
@@ -164,7 +164,7 @@ Philosophers have traditionally referred to explanatory reasoning as “abductio
 
 But philosophical literature on explanatory reasoning generally takes the explanandum for granted. Discussions on explanatory reasoning and EP in the contexts of discovery and justification are concerned with the particular notion of EP that underwrites inference to explanans for already established explanandum’s. In either context, EP is solely located in driving inference to explanans as a reaction to a given and assumed explanandum. This was the case with PI as well where the inferential three-step pattern begins with surprise in E that is taken for granted and the notion of EP is only concerned with inference to reduce this surprise. S&S’s paper was also focused on explicating this notion of EP assuming surprise as a given. 
  
-However, my Bayesian probabilistic analysis of PI does not take surprise for granted or the explanandum as a given. Following PI, this paper explicated an account of surprise as a function of the agents measure of EP, where the degree of surprise in E determines whether E qualifies as an explanandum or not.
+However, my Bayesian probabilistic analysis of PI does not take surprise for granted or the explanandum as a given. Following PI, this series of articles explicated an account of surprise as a function of the agents measure of EP, where the degree of surprise in E determines whether E qualifies as an explanandum or not.
 
 A summary of how we get to measure surprise as a function of EP and determine whether some encountered fact is an explanandum as discussed in this and previous articles is as follows:
 
