@@ -9,10 +9,9 @@ tags: Mind
 ![TE image](/images/extendedcog.jfif){: style="width:400px; float:center;"}
 
 ### Introduction
-Clark and Chalmers (Clark & Chalmers, 1998) introduce the notion of cognitive processes extending out of our heads and into the world. In this entry, I will explain the notion of extended cognition as introduced by Clark & Chalmers (henceforth C&C). 
-I will talk about how C&C ground their thesis on the parity principle which is committed to a Martian saving coarse-grained functionalism. And how this functionalist stance is ultimately doomed and licenses cognitive bloat.
+Clark and Chalmers (Clark & Chalmers, 1998) introduce the notion of cognitive processes extending out of our heads and into the world. In this article, I will explain the notion of extended cognition as introduced by Clark & Chalmers (henceforth C&C). I will talk about how C&C ground their thesis on the parity principle which is committed to a Martian saving coarse-grained functionalism. And how this functionalist stance is ultimately doomed and licenses cognitive bloat.
 
-[Here](https://perrin-ay.github.io/mind/2021/12/01/Extended-cognition-without-cognitive-bloat.html){:target="_blank"} I propose an alternative view that utilizes modeling extended cognition as nonlinear dynamical systems, where I discuss interactive-dominant dynamics and circular causality of components that are salient to Nonlinear dynamical systems and how these can be applied to make a positive case for extended cognition systems that does not succumb to cognitive bloat. 
+[Here](https://perrin-ay.github.io/mind/2021/12/01/My-view-on-extended-cognition-that-escapes-cognitive-bloat.html){:target="_blank"} I propose an alternative view that utilizes modeling extended cognition as nonlinear dynamical systems, where I discuss interactive-dominant dynamics and circular causality of components that are salient to Nonlinear dynamical systems and how these can be applied to make a positive case for extended cognition systems that does not succumb to cognitive bloat. 
 
 ---
 ### Extended cognition and the parity principle
